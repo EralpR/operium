@@ -1,4 +1,4 @@
-Operium Privacy Policy
+#Operium Privacy Policy
 
 Operium ("we", "our", or "Operium") strives to protect your personal information when using the hosting service provided through this website. This Privacy Policy explains what types of personal information Operium collects when you use Operium's website ("Site"), how it is used, and how this information is protected. This Privacy Policy applies to all users.
 
